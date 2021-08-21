@@ -9,3 +9,4 @@
 - [@email](mailto:snappysong@gmail.com)
 
 - @discord - message me @Snappy#4005
+- [Check out my portfolio page!](https://snappysong.github.io/portfolio/)
